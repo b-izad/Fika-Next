@@ -11,7 +11,7 @@ const Header = () => {
               {/* Header Logo Start */}
               <div className="header-logo">
                 <Link href="/" legacyBehavior>
-                  <a>Fika spot</a>
+                  <a>FikaSpot</a>
                 </Link>
               </div>
               {/* Header Logo End */}

@@ -25,16 +25,16 @@ const About = () => {
             <div className="row align-items-center">
               <div className="col-md-6">
                 <div className="section-title-10 justify-content-start text-start align-items-start">
-                  <span className="section-title-10__subtitle">We Are Bakerfresh</span>
-                  <h1 className="section-title-10__title">we love cake</h1>
-                  <p className="section-title-10__text">Nullam dictum, justo eu blandit lacinia, diam libero porta sem, sit amet molestie tellus lacus non orci. Nullam orci urna, egestas at dui vel, sagittis semper est.</p>
-                  <p className="section-title-10__text">Vestibulum eu tristique tellus. Praesent at varius nisi, ut dignissim lectus. Praesent venenatis ipsum in arcu ullamcorper tristique. Aliquam et gravida magna, ut tincidunt massa.</p>
-                  <img src="/assets/images/444.png" alt="Signature-Image" />
+                  <span className="section-title-10__subtitle">Welcome to FikaSpot</span>
+                  <h1 className="section-title-10__title">Join us for a taste of Sweden in Boston.</h1>
+                  <p className="section-title-10__text">Enjoy unique pastries like kanelbullar (cinnamon buns), kardemummabullar (cardamom buns), and chokladbollar (chocolate balls) alongside diverse coffee styles in a cozy, European-inspired setting.</p>
+                  <p className="section-title-10__text">Whether catching up with friends or enjoying some quiet time, Fika Spot offers a delightful escape.</p>
+                  <img src="/assets/images/about1.png" alt="Signature-Image" />
                 </div>
               </div>
               <div className="col-md-6">
                 <div className="aboutus-image">
-                  <img src="/assets/images/444.png" alt="About-Image" />
+                  <img src="/assets/images/about2.png" alt="About-Image" />
                 </div>
               </div>
             </div>
@@ -47,9 +47,9 @@ const About = () => {
             <div className="row flex-md-row-reverse align-items-center">
               <div className="col-md-5">
                 <div className="section-title-10 justify-content-start text-start align-items-start">
-                  <span className="section-title-10__subtitle">Bakerfresh Time</span>
+                  <span className="section-title-10__subtitle">FikaSpot Time</span>
                   <h1 className="section-title-10__title">we are open</h1>
-                  <p className="section-title-10__text">Aliqua id fugiat nostrud irure ex duis ea quis id quis ad et. Sunt qui esse pariatur</p>
+                  <p className="section-title-10__text"></p>
                 </div>
                 <ul className="about-schedule">
                   <li>
@@ -76,7 +76,7 @@ const About = () => {
             <div className="row">
               <div className="col-12">
                 <div className="section-title-10 text-center">
-                  <h2 className="section-title-10__title mb-0 mb-lg-5 mb-md-3">Our Chef</h2>
+                  <h2 className="section-title-10__title mb-0 mb-lg-5 mb-md-3">Our Team</h2>
                 </div>
               </div>
             </div>
@@ -109,7 +109,7 @@ const About = () => {
               <div className="col mb-25">
                 <div className="team-2-wrapper">
                   <div className="team-2-thumb">
-                    <img src="/assets/images/team/team-2.jpg" alt="Team-Image" />
+                    <img src="/assets/images/headshot.png" alt="Team-Image" />
                   </div>
                   <div className="team-2-content">
                     <span className="team-2-name">Kristin Watson</span>
@@ -134,7 +134,7 @@ const About = () => {
               <div className="col mb-25">
                 <div className="team-2-wrapper">
                   <div className="team-2-thumb">
-                    <img src="/assets/images/team/team-3.jpg" alt="Team-Image" />
+                    <img src="/assets/images/headshot.png" alt="Team-Image" />
                   </div>
                   <div className="team-2-content">
                     <span className="team-2-name">Darrell Steward</span>

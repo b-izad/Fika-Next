@@ -1,6 +1,6 @@
 const Newsletter = () => {
     return (
-      <div className="newsletter-section" style={{ backgroundImage: 'url(/assets/images/111.png)' }}>
+      <div className="newsletter-section" style={{ backgroundImage: 'url(/assets/images/discount.png)' }}>
         <div className="container">
           <div className="newsletter text-center">
             <h2 className="newsletter__title text-white">Stay in touch & get 10% off</h2>
