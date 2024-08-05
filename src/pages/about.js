@@ -25,10 +25,10 @@ const About = () => {
             <div className="row align-items-center">
               <div className="col-md-6">
                 <div className="section-title-10 justify-content-start text-start align-items-start">
-                  <span className="section-title-10__subtitle">Welcome to FikaSpot</span>
+                  <span className="section-title-10__subtitle">Welcome to TheFikaSpot</span>
                   <h1 className="section-title-10__title">Join us for a taste of Sweden in Boston.</h1>
                   <p className="section-title-10__text">Enjoy unique pastries like kanelbullar (cinnamon buns), kardemummabullar (cardamom buns), and chokladbollar (chocolate balls) alongside diverse coffee styles in a cozy, European-inspired setting.</p>
-                  <p className="section-title-10__text">Whether catching up with friends or enjoying some quiet time, Fika Spot offers a delightful escape.</p>
+                  <p className="section-title-10__text">Whether catching up with friends or enjoying some quiet time, TheFikaSpot offers a delightful escape.</p>
                   <img src="/assets/images/about1.png" alt="Signature-Image" />
                 </div>
               </div>
@@ -47,7 +47,7 @@ const About = () => {
             <div className="row flex-md-row-reverse align-items-center">
               <div className="col-md-5">
                 <div className="section-title-10 justify-content-start text-start align-items-start">
-                  <span className="section-title-10__subtitle">FikaSpot Time</span>
+                  <span className="section-title-10__subtitle">Fika Time</span>
                   <h1 className="section-title-10__title">we are open</h1>
                   <p className="section-title-10__text"></p>
                 </div>

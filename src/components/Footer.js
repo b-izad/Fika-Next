@@ -34,7 +34,7 @@ const Footer = () => {
               <div className="col-md-4">
                 <div className="footer-contact">
                   <h4>Contact Us</h4>
-                  <p>Email: <a href="mailto:info@fikaspot.com">info@fikaspot.com</a></p>
+                  <p>Email: <a href="mailto:info@thefikaspot.com">info@thefikaspot.com</a></p>
                   <p>Phone: <a href="tel:+1234567890">+1 234 567 890</a></p>
                 </div>
               </div>

@@ -6,7 +6,7 @@ const CallToAction = () => {
           <div className="col-lg-6">
             {/* Call to Action box Start */}
             <div className="call-to-action-box">
-              <h3 className="call-to-action-box__title text-white"><span>Welcome to FikaSpot</span></h3>
+              <h3 className="call-to-action-box__title text-white"><span>Welcome to TheFikaSpot</span></h3>
               <ul className="call-to-action-box__list text-white">
                 <li>Discover your new favorite spot with us.</li>
               </ul>
