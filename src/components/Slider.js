@@ -6,7 +6,7 @@ const Slider = () => {
           <div className="row">
             <div className="col-12">
               <div className="breadcrumb_content">
-                <h1 className="breadcrumb_title">FikaSpot</h1>
+                <h1 className="breadcrumb_title">TheFikaSpot</h1>
                 <p className="breadcrumb_text">Experience the charm of Sweden with our authentic coffee and delightful pastries, crafted to bring a taste of Scandinavia to your day</p>
               </div>
             </div>

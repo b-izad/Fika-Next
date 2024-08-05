@@ -1,5 +1,3 @@
-
-
 const Footer = () => {
   return (
     <div className="bg-dark-four dark-footer">
@@ -10,8 +8,9 @@ const Footer = () => {
               <div className="col-md-4">
                 <div className="footer-widget">
                   <div className="footer-widget__logo">
-                    <a className="logo-dark" href="index.html"><img src="/assets/images/logo.svg" alt="Logo" /></a>
-                    <a className="logo-white d-none" href="index.html"><img src="/assets/images/logo-white.svg" alt="Logo" /></a>
+                    <a className="logo-dark" href="index.html">
+                      <img src="/assets/images/logo.svg" alt="Logo" />
+                    </a>
                   </div>
                   <div className="footer-widget__social">
                     <a href="#"><i className="lastudioicon-b-facebook"></i></a>
@@ -21,35 +20,22 @@ const Footer = () => {
                   </div>
                 </div>
               </div>
-              <div className="col-md-8">
-                <div className="footer-widget-wrapper d-flex flex-wrap gap-4">
-                  <div className="footer-widget flex-grow-1">
-                    <h4 className="footer-widget__title">Categories</h4>
-                    <ul className="footer-widget__link">
-                      <li><a href="shop.html">Cupcake</a></li>
-                      <li><a href="shop.html">Pastry</a></li>
-                      <li><a href="shop.html">Muffin</a></li>
-                      <li><a href="shop.html">Waffle</a></li>
-                    </ul>
-                  </div>
-                  <div className="footer-widget flex-grow-1">
-                    <h4 className="footer-widget__title">Services</h4>
-                    <ul className="footer-widget__link">
-                      <li><a href="contact.html">Delivery</a></li>
-                      <li><a href="contact.html">Payment</a></li>
-                      <li><a href="contact.html">Returns</a></li>
-                      <li><a href="contact.html">Privacy</a></li>
-                    </ul>
-                  </div>
-                  <div className="footer-widget flex-grow-1">
-                    <h4 className="footer-widget__title">Information</h4>
-                    <ul className="footer-widget__link">
-                      <li><a href="about.html">About Us</a></li>
-                      <li><a href="contact.html">Contact Us</a></li>
-                      <li><a href="blog-details.html">Latest Post</a></li>
-                      <li><a href="about.html">Selling Tips</a></li>
-                    </ul>
-                  </div>
+              <div className="col-md-4">
+                <div className="footer-links">
+                  <h4>Quick Links</h4>
+                  <ul>
+                    <li><a href="/">Home</a></li>
+                    <li><a href="/about">About Us</a></li>
+                    <li><a href="/services">Services</a></li>
+                    <li><a href="/contact">Contact</a></li>
+                  </ul>
+                </div>
+              </div>
+              <div className="col-md-4">
+                <div className="footer-contact">
+                  <h4>Contact Us</h4>
+                  <p>Email: <a href="mailto:info@fikaspot.com">info@fikaspot.com</a></p>
+                  <p>Phone: <a href="tel:+1234567890">+1 234 567 890</a></p>
                 </div>
               </div>
             </div>
@@ -61,7 +47,7 @@ const Footer = () => {
             <div className="row row-cols-1 align-items-center">
               <div className="col">
                 <div className="footer-copyright-text text-center">
-                  <p>© 2024 <strong> FikaSpot </strong> Made with <i className="lastudioicon-heart-1"></i></p>
+                  <p>© 2024 <strong>FikaSpot</strong> Made by Bahareh Izadpanah <i className="lastudioicon-heart-1"></i></p>
                 </div>
               </div>
             </div>
